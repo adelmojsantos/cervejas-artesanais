@@ -1,6 +1,3 @@
-Aqui está uma sugestão descontraída para o `README.md` do seu projeto:
-
-```md
 # 🍺 Cervejas Artesanais - Explore Sabores e Harmonizações!
 
 Bem-vindo(a) ao **Cervejas Artesanais**! Aqui você vai encontrar as melhores cervejas artesanais e suas harmonizações perfeitas. Se está em busca de uma IPA ou daquela combinação incrível para sua degustação, está no lugar certo. 🍻
@@ -63,6 +60,3 @@ Se tiver alguma dúvida ou sugestão, entre em contato via email: adelmojsantos@
 ---
 
 Feito com ❤️ e uma dose de 🍺.
-```
-
-Essa estrutura apresenta o projeto de maneira leve e acessível, ideal para um público que gosta de cervejas e aprecia uma boa dose de descontração.
