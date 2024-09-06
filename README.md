@@ -48,4 +48,3 @@ Este projeto está licenciado sob a licença MIT. Sinta-se à vontade para usar,
 
 **Vamos brindar a mais uma deliciosa harmonização!** 
 
-![Harmonização perfeita]https://unsplash.com/pt-br/fotografias/pessoas-brindando-snnhGYNqm44
