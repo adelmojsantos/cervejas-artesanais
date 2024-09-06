@@ -55,7 +55,7 @@ Agora, é só procurar sua cerveja favorita e explorar as harmonizações! 🍷�
 
 ## 📧 Contato
 
-Se tiver alguma dúvida ou sugestão, entre em contato via email: adelmojsantos@gmail.com
+Se tiver alguma dúvida ou sugestão, entre em contato via email: adelmojsantos1985@gmail.com
 
 ---
 
